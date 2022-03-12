@@ -55,6 +55,12 @@
 
 ## Built With
 
-- 精易模塊 10.0.5 - 易語言模塊
-- 精易皮膚模塊 5.0  - 易語言模塊
-- `Locale_Remulator` 區域模擬元件
+- [精易模塊 10.0.5](https://bbs.125.la) - 易語言模塊
+- [精易皮膚模塊 5.0](https://bbs.125.la/thread-14660006-1-1.html)  - 易語言模塊
+- [Locale_Remulator](https://github.com/InWILL/Locale_Remulator) 區域模擬元件
+
+
+## Developer
+
+左鍵點擊 LOGO 15次以上，會進入開發者模式，會在系統桌面生成請求日誌文件，請求會有打印。
+右鍵點擊 LOGO 15次以上，可設置請求代理，可供抓包學習。
