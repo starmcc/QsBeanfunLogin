@@ -1,4 +1,4 @@
-# QsBeanfunLogin
+# 秋水Beanfun登录工具
 
 ![logo](./logo.png)
 
