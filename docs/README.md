@@ -242,7 +242,7 @@ token：通过登录Token从插件中获取的插件Token。
 document.location = “http://hk.beanfun.com/beanfun_block/game_zone/game_server_account_list.aspx
 ```
 
-如果匹配成功，证明登录成功了。
+如果匹配成功，则说明登录成功了.
 
 
 
