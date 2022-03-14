@@ -14,7 +14,7 @@
 
 開源遵循MIT協議，如遇到問題或Bug 歡迎提交 Issues。
 
-[具體實現方案，各種語言領域的大佬歡迎查閱](https://github.com/starmcc/QsBeanfunLogin/docs)
+[具體實現方案，各種語言領域的大佬歡迎查閱](https://github.com/starmcc/QsBeanfunLogin/tree/master/docs)
 
 ## Download
 
