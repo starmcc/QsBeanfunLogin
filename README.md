@@ -4,13 +4,17 @@
 
 本工具不是遊戲橘子數位科技開發的官方工具
 
-使用易語言進行開發，後續會考慮使用本系語言`Java`去實現（可能沒時間）
+使用易語言進行開發。
+
+**注意：本人精力有限，目前以Java版本为主。**
+
+**建议使用Java版本[QsBeanfun](https://github.com/starmcc/qs-beanfun)**
 
 引用LR區域模擬元件，支持32bit和64Bit台服新楓之谷遊戲。
 
 參考了[pungin](https://github.com/pungin)的實現思路。
 
-**本工具僅支持臺服新楓之谷使用，如果有其他遊戲需要，建議使用[pungin/Beanfun: 繽放](https://github.com/pungin/Beanfun)**
+本工具僅支持臺服新楓之谷使用，如果有其他遊戲需要，建議使用[pungin/Beanfun: 繽放](https://github.com/pungin/Beanfun)
 
 開源遵循MIT協議，如遇到問題或Bug 歡迎提交 Issues。
 
@@ -27,14 +31,14 @@
 3. 裝備卷軸計算器（收集了各種資料做出來的壹個計算器）
 4. 免輸入賬密直接進入遊戲（與網頁登錄實現方式相同）
 5. 實時中臺匯率計算
-6. 集成各種優化小功能，快捷操作等（後續會壹直加哦）
+6. 集成各種優化小功能，快捷操作等
 
 
 ## Environment
 
 - [Microsoft Visual C++ Redistributable](https://docs.microsoft.com/zh-CN/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - Windows7 以上
-- .net Framework 4.0 以上
+- .net Framework 4.8 以上
 
 
 ## Usage
@@ -57,7 +61,7 @@
 
 - [精易模塊 10.0.5](https://bbs.125.la) - 易語言模塊
 - [精易皮膚模塊 5.0](https://bbs.125.la/thread-14660006-1-1.html)  - 易語言模塊
-- [Locale_Remulator](https://github.com/InWILL/Locale_Remulator) 區域模擬元件
+- [Locale_Remulator](https://github.com/InWILL/Locale_Remulator) 區域模擬元 1.4.3
 
 
 ## Developer

@@ -568,7 +568,7 @@ d: 当前时间戳(我传的是毫秒时间戳)
 
 > 小提示
 
-想免登录？ 那就像
+想免登录？ 那就自己看源码吧。
 
 ## 我有话要说
 
@@ -578,9 +578,9 @@ d: 当前时间戳(我传的是毫秒时间戳)
 
 By: [`starmcc [秋水小梦]`](https://github.com/starmcc/QsBeanfunLogin)
 
+目前已经由`Java`版本进行维护，可自行前往
 
-
-
+[qs-beanfun(for Java)](https://github.com/starmcc/qs-beanfun)
 
 
 
