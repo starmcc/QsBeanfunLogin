@@ -6,9 +6,9 @@
 
 使用易語言進行開發。
 
-**注意：本人精力有限，目前以Java版本为主。**
+**注意：1.x系列不再维护**
 
-**建议使用Java版本[QsBeanfun](https://github.com/starmcc/qs-beanfun)**
+**建议使用Java编写版本[QsBeanfun](https://github.com/starmcc/qs-beanfun)**
 
 引用LR區域模擬元件，支持32bit和64Bit台服新楓之谷遊戲。
 
